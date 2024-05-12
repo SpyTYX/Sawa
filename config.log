@@ -1,0 +1,18 @@
+// Last Updated 13/05/2024
+// Main Bot Configuration
+ClientToken TOKEN_HERE
+Prefix sw!
+DeleteMessagesAfterPosted false
+DeleteMessagesDuration 4500
+NotAuthorizedMessage false
+
+// Enable or Disable Commands
+BanWave true
+Information true
+LoopPing true
+Ping true
+Test false
+
+// Change Cooldowns of Commands
+LoopPingCooldown 500
+BanWaveCooldown 4500
