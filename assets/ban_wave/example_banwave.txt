@@ -1,0 +1,3 @@
+{userid}, {reason}
+979437892143312926, Very Rude.
+1085370200628666488, def1 // Def1 (default1) gets replaced with "Botted Advertisement. | Steam Scam."
