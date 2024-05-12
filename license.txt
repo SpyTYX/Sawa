@@ -1,0 +1,4 @@
+This Project is licensed under The Open Software License 3.0 (https://en.wikipedia.org/wiki/Open_Software_License)
+a. You are allowed to use code from this project or modify the project to your needs with the terms of providing credits to the Authors (moonzy.dev) and providing a link to the project (https://github.com/SpyTYX/Sawa/)
+b. You are not allowed to add any sort of malware or virus into the project and trick people into running the malware in order to steal their information. (RATs / Loggers, aswell as any other type of Logging or Malware.)
+c. You are not allowed to sell or make a premium version of any project with code from this project.
