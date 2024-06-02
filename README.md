@@ -1,4 +1,4 @@
-[![sup](https://cdn.discordapp.com/attachments/1169653136928022579/1239338560444825651/sawa_logo.png?ex=66428f7a&is=66413dfa&hm=6be3271fb9ed0fdef0113730ad67bef6c5eacf37cab56245abe90642dd7a6770&)]()
+[![sup](https://cdn.discordapp.com/attachments/1224126652699643994/1246928342817444022/sawa_logo.png?ex=665e2c03&is=665cda83&hm=43499f33319fff6525449e58066a7999e6f78c6690f130965b0995f5b20fdb88&)]()
 
 # Sawa Client Bot
 #### Sawa (SawaSB / Sawa Self Bot) is a reliable Discord self-bot with frequent updates and high customization.
