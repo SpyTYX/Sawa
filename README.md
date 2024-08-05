@@ -1,4 +1,9 @@
-[![sup](https://cdn.discordapp.com/attachments/1224126652699643994/1246928342817444022/sawa_logo.png?ex=665e2c03&is=665cda83&hm=43499f33319fff6525449e58066a7999e6f78c6690f130965b0995f5b20fdb88&)]()
+[![](https://cdn.discordapp.com/attachments/1224126652699643994/1246928342817444022/sawa_logo.png?ex=665e2c03&is=665cda83&hm=43499f33319fff6525449e58066a7999e6f78c6690f130965b0995f5b20fdb88&)]()
+
+# Discontinued & Archived
+#### This project is discontinued and will not be updated anymore as of 5th of August, 2024.
+#### I will be releasing a new project with better source code and features soon.
+#### This project should still be usable after a few months, however I can't say how secure it will be.
 
 # Sawa Client Bot
 #### Sawa (SawaSB / Sawa Self Bot) is a reliable Discord self-bot with frequent updates and high customization.
